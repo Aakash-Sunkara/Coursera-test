@@ -142,6 +142,10 @@ article{
         float: left;
     }
 
+    main.nem{
+        width: 95%
+    }
+
     .col-md-1 {
         width: 8.33%;
     }
