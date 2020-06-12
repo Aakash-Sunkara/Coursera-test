@@ -56,6 +56,22 @@ article{
     width: 100%
 }
 
+.mea{
+  font-size: 1.25em;
+  background-color: maroon;
+  color: white;
+}
+
+.meb{
+  font-size: 1.25em;
+  background-color: pink;
+}
+
+.mec{
+  font-size: 1.25em; 
+  background-color: yellow;
+}
+
 
 /***************For Large devices***************/
 @media (min-width: 992px) {
